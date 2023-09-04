@@ -1,6 +1,7 @@
 name: Generate Datas
 
 on:
+  push: 
   workflow_dispatch: # execute manually
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
