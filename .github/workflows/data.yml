@@ -7,7 +7,7 @@ on:
 
 jobs:
   snake-animation:
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
     steps:
       - name: Generate Snake Animation
         uses: Platane/snk@main
