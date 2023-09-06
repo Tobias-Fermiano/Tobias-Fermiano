@@ -28,12 +28,21 @@
 <div align=""> 
   <h3>--If you want to helpe me, please...<h3>
     <a href="https://www.buymeacoffee.com/tobiasfermx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 </div>
     
 ##
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=21oz6ckox3pv7rlnyr6my5tzi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21oz6ckox3pv7rlnyr6my5tzi&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
+
 <div align="center">
-  
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=21oz6ckox3pv7rlnyr6my5tzi&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=21oz6ckox3pv7rlnyr6my5tzi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)
+
+```javascript
+if(Spotify == playing){
+  alert("I am coding")
+}else{
+  alert("I am sleeping")}
+```
 
 ![Snake animation](https://github.com/Tobias-Fermiano/Tobias-Fermiano/blob/output/github-contribution-grid-snake.svg) 
 </div>
