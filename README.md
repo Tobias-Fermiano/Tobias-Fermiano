@@ -2,16 +2,12 @@
 
 <img src="Gif.gif" alt="Looping">
 
-<div align="">
+<div>
   <img src="https://github-profile-trophy.vercel.app/?username=Tobias-Fermiano&column=6&rank=A,B,C,SSS,SS,S,AAA,AA"/>
 </div>
 
 <h4>
-  <i>About me:</i> 
-  My name is Tobias Fermiano, I'm 19 years old and I'm currently graduating in information systems.
-  I'm doing some projects that you can access in this profile. 
-  I have experience and skills with HTML5, CSS3, Java, JavaScript, Bootstrap, Figma and Eclipse.
-  To develop is a hobby and a passion to me, I love what I'm doing and what I gonna keep doing for a long, long time!
+  About me: My name is Tobias Fermiano, I'm 19 years old and I'm currently graduating in information systems. I'm doing some projects that you can access in this profile. I have experience and skills with HTML5, CSS3, Java, JavaScript, Bootstrap, Figma and Eclipse. To develop is a hobby and a passion to me, I love what I'm doing and what I gonna keep doing for a long, long time!
 </h4>
 
 ##
@@ -25,7 +21,7 @@
 
 ##
 
-<div align=""> 
+<div> 
   <h3>--If you want to helpe me, please...<h3>
     <a href="https://www.buymeacoffee.com/tobiasfermx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right">
