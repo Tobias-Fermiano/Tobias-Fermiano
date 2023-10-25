@@ -19,7 +19,7 @@
 <h3 align="center" font-size="large">---Currently working with---<h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,eclipse,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,eclipse,figma,vscode"/>
   </a>
 </p>
 
