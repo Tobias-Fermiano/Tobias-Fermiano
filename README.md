@@ -10,7 +10,7 @@
   <p>
     <i>About me:</i>
       My name is Tobias Fermiano, I'm 19 years old and I'm currently graduating in information systems. 
-      I'm doing some projects that you can access in this profile. I have experience and skills with HTML5, CSS3, Java, JavaScript, Bootstrap, Figma and Eclipse. 
+      I'm doing some projects that you can access in this profile. I have experience and skills with HTML5, CSS3, Java, Figma and Eclipse. 
       To develop is a hobby and a passion to me, I love what I'm doing and what I gonna keep doing for a long, long time!
   </p>
 <b/>
@@ -20,7 +20,7 @@
 <b><p align="center" style>---Currently working with---</p></b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,eclipse,figma,vscode">
+    <img src="https://skillicons.dev/icons?i=html,css,java,eclipse,figma,vscode">
   </a>
 </p>
 
