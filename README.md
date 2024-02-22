@@ -17,7 +17,7 @@
   
 ##
 
-<b><p align="center" style>---Currently working with---</p></b>
+<b><h3 align="center" style>---Currently working with---</h3></b>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,java,eclipse,figma,vscode">
