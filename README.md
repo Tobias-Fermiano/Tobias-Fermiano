@@ -2,7 +2,7 @@
 
 <img src="Gif.gif" alt="Looping">
 
-<div align="center" width="30%">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Tobias-Fermiano&column=6&rank=A,B,C,SSS,SS,S,AAA,AA">
 </div>
 
