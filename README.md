@@ -33,6 +33,8 @@
     
 ##
 
+[![Spotify](https://tobias-fermiano-n11w8g1wb-tobias-fermianos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/tobias-fermianos)
+
 
 
 <div align="center">
