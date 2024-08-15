@@ -1,4 +1,10 @@
-<h2>What´s up guys, Tobias Fermiano here, you are welcome! 😃🖖</h2>
+
+
+<div>
+  <h2 align="left">What´s up guys, Tobias Fermiano here, you are welcome! 😃🖖
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Tobias-Fermiano.Tobias-Fermiano&left_color=grey&right_color=black&left_text=Visitors" align="right"/>
+  </h2>
+</div> 
 
 <img src="Gif.gif" alt="Looping">
 
@@ -22,6 +28,16 @@
     <img src="https://skillicons.dev/icons?i=git,html,css,java,spring,eclipse,idea,postgres,mysql">
   </a>
 </p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Tobias-Fermiano&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=7&order=3" height="155" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tobias-Fermiano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="155" alt="languages graph"  />
+</div>
+
+###
+
 
 ##
 
