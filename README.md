@@ -24,7 +24,7 @@
 <b><h3 align="center" style>---Currently working with---</h3></b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,spring,react,next,eclipse,idea,postgres,mysql">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,spring,eclipse,idea,postgres,mysql">
   </a>
 </p>
 
